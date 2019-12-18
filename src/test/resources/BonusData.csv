@@ -1,0 +1,4 @@
+amount,expected,message
+1000,0,Should return 0 for amount = 1000
+500,500,Should return 500 for amount = 500
+1200,800,Should return 800 for amount = 1200
